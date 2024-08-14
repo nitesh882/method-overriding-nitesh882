@@ -1,4 +1,4 @@
-// A.java
+
 package com.driver;
 
 public class A {
